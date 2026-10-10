@@ -38,10 +38,7 @@ Este documento contém o levantamento de cenários de teste escritos em sintaxe 
 
    **Resultado da Execução:** ✅ Passou
    **Evidência:**
-   <video width="100%" controls>
-  <source src="../evidencias/cenario.02-formatacao-de-cupoms.mp4" type="video/mp4">
-  Seu navegador não suporta a reprodução de vídeo.
-  </video>
+   [![Assistir Evidência do Cenário 02](https://img.shields.io/badge/▶_Assistir_Vídeo-YouTube-red)](https://youtu.be/h1EjjLUYx9I)
 
 
 ### Cenário 03: Cupom inexistente ou malformado não aplica desconto (CA02, CA03)
