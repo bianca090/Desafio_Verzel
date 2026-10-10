@@ -381,17 +381,24 @@ Exemplos:
 04-| P005 x2                     | 200      | 0     | true        | 0        | 200   | exatamente no limite  |
 05-| P007 x1                     | 229.9    | 0     | true        | 0        | 229.9 | acima do limite       |
 
+
    **Resultado da Execução:(01)** ✅ Passou
    **Evidência:**
    ![teste API: calculo carrinho menor valor possivel](../Evidencias/cenario20.1-api-menor-valor.png)
+
+   
 
    **Resultado da Execução:(02)** ✅ Passou
    **Evidência:**
    ![teste API: calculo carrinho valor intermediario](../Evidencias/cenario.20.2api-valor-intermediario.png)
 
+   
+
    **Resultado da Execução:(03)** ✅ Passou
    **Evidência:**
    ![teste API: calculo carrinho valor abaico do limite](../Evidencias/cenario.20.3-api-valor-abaixo-do-limite.png)
+
+   
    
    **Resultado da Execução:(02)** ❌ Falhou
    **Evidência e Detalhes:** 
