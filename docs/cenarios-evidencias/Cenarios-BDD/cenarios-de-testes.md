@@ -75,6 +75,9 @@ Exemplos:
    **Evidência:**
    ![cupom expirado não é permitido](../evidencias/cenario.04-cupom-expirado.png)
 
+  
+  
+
 
 ### Cenário 05: Não permitir dois cupons ao mesmo tempo (CA05)
 - **Dado** que tenho um produto adicionado ao carrinho
@@ -86,6 +89,8 @@ Exemplos:
    **Resultado da Execução:** ✅ Passou
    **Evidência:**
    ![cupom expirado não é permitido](../evidencias/cenario.05-validacao-de-cupom-aplicado.png)
+
+  
 
 
 ### Cenário 06: Remover o cupom devolve o carrinho ao estado sem desconto (CA05)
