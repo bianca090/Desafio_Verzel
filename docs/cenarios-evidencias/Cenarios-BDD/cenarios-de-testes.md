@@ -399,7 +399,7 @@ Exemplos:
 
    
    
-   **Resultado da Execução:(02)** ❌ Falhou
+   **Resultado da Execução:(04)** ❌ Falhou
    **Evidência e Detalhes:** 
    ![Ver Bug Report completo](../../bug-reports/BUG-VZS-142-01)
 
