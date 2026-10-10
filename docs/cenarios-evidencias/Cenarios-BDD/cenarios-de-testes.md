@@ -88,7 +88,7 @@ Exemplos:
 
    **Resultado da Execução:** ✅ Passou
    **Evidência:**
-   ![cupom expirado não é permitido](../evidencias/cenario.05-validacao-de-cupom-aplicado.png)
+   ![cupom expirado não é permitido](https://raw.githubusercontent.com/bianca090/Desafio_Verzel/main/docs/cenarios-evidencias/Evidencias/cenario.05-validacao-de-cupom-aplicado.png)
 
   
 
