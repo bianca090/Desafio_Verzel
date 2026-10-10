@@ -384,8 +384,7 @@ Exemplos:
 
    **Resultado da Execução:(01)** ✅ Passou
    **Evidência:**
-   ![teste API: calculo carrinho menor valor possivel](../Evidencias/cenario20.1-api-menor-valor.png)
-
+   ![Evidência API - Menor Valor](https://raw.githubusercontent.com/bianca090/Desafio_Verzel/main/docs/cenarios-evidencias/Evidencias/cenario.20.1-api-menor-valor.png)
    
 
    **Resultado da Execução:(02)** ✅ Passou
