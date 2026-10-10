@@ -126,15 +126,15 @@ Exemplos:
 
    **Resultado da Execução:(01)** ✅ Passou
    **Evidência:**
-   ![teste com menor valor possivel](../evidencias/cenario.07.1-menor-valor-possivel.png)
+  (![Menor valor possível](https://raw.githubusercontent.com/bianca090/Desafio_Verzel/main/docs/cenarios-evidencias/Evidencias/cenario.07.1-menor-valor-possivel.png))
 
    **Resultado da Execução:(02)** ✅ Passou
    **Evidência:**
-   ![teste de frete com valor intermediario](../evidencias/cenario.07.2-valor-intermediario.png)
+  ![Valor intermediário](https://raw.githubusercontent.com/bianca090/Desafio_Verzel/main/docs/cenarios-evidencias/Evidencias/cenario.07.2-valor-intermediario.png)
 
    **Resultado da Execução:(03)** ✅ Passou
    **Evidência:**
-   ![teste de frete com valor logo abixo do limite](../evidencias/cenario.07.3-abaixo-do-limite.png)
+   ![Abaixo do limite](https://raw.githubusercontent.com/bianca090/Desafio_Verzel/main/docs/cenarios-evidencias/Evidencias/cenario.07.3-abaixo-do-limite.png)
 
    **Resultado da Execução:(04)** ❌ Falhou
    **Evidência e Detalhes:** 
