@@ -557,7 +557,7 @@ Exemplos:
 
    **Resultado da Execução:(05)** ✅ Passou
    **Evidência:**
-   ![teste API: requisição cep sem o ifen ](../Evidencias/cenario.24.5-api-cep-sem-ifen.pngg)
+   ![teste API: requisição cep sem o ifen ](../Evidencias/cenario.24.5-api-cep-sem-ifen.png)
 
    **Resultado da Execução:(06)** ✅ Passou
    **Evidência:**
