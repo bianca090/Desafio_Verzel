@@ -73,7 +73,7 @@ Exemplos:
 
    **Resultado da Execução:** ✅ Passou
    **Evidência:**
-   ![cupom expirado não é permitido](../evidencias/cenario.04-cupom-expirado.png)
+   ![cupom expirado não é permitido](../../Evidencias/cenario.04-cupom-expirado.png)
 
   
   
