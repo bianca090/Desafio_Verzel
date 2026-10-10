@@ -61,7 +61,7 @@ Exemplos:
 
    **Resultado da Execução:** ✅ Passou
    **Evidência:**
-   ![cupoms invalidos não são permitidos](../evidencias/cenario.03-cupoms-invalidos.mp4)
+   [![Assistir Evidência do Cenário 02](https://img.shields.io/badge/▶_Assistir_Vídeo-YouTube-red)](https://youtu.be/1Miqm2FfMZ8)
 
 
 ### Cenário 04: Tentativa de aplicação de cupom expirado (CA04)
@@ -98,7 +98,7 @@ Exemplos:
 
    **Resultado da Execução:** ✅ Passou
    **Evidência:**
-   ![cupom expirado não é permitido](../evidencias/cenario.06-aplica-e-retiracupom.mp4)
+   [![Assistir Evidência do Cenário 02](https://img.shields.io/badge/▶_Assistir_Vídeo-YouTube-red)](https://youtu.be/YYLPoSOM9ak)
 
 
 ### Cenário 07: Frete e valor faltante em torno do limite de R$ 200,00 (CA06, CA07)
@@ -157,16 +157,15 @@ Exemplos:
 
    **Resultado da Execução:(01)** ✅ Passou
    **Evidência:**
-   ![teste adiconando produto de pequeno valor ao carrinho ](../evidencias/cenario.08.1-adicao-de-produto.mp4)
+  [![Assistir Evidência do Cenário 02](https://img.shields.io/badge/▶_Assistir_Vídeo-YouTube-red)](https://youtu.be/lvv7sF4s89A)
 
    **Resultado da Execução:(02)** ✅ Passou
    **Evidência:**
-   ![teste retirando produto do carrinho](../evidencias/cenario.08.2-retirar-produto-do-carrinho.mp4)
+   [![Assistir Evidência do Cenário 02](https://img.shields.io/badge/▶_Assistir_Vídeo-YouTube-red)](https://youtu.be/DTghKm_mQ18)
 
    **Resultado da Execução:(03)** ✅ Passou
    **Evidência:**
-   ![teste adicona produto para frete gratis](../evidencias/cenario.08.3-adicionando-produto-para-frete.mp4)
-
+  [![Assistir Evidência do Cenário 02](https://img.shields.io/badge/▶_Assistir_Vídeo-YouTube-red)](https://youtu.be/RZWidlBfMzc)
 
 ### Cenário 09: Valor faltante é calculado sobre o subtotal, sem considerar o cupom (CA07, CA08, CA09)
 - **Dado** que tenho produtos no carrinho com subtotal de R$ 150,00 (P005 + P008)
@@ -178,7 +177,7 @@ Exemplos:
 
    **Resultado da Execução:** ✅ Passou
    **Evidência:**
-   ![teste calculo de valores ](../evidencias/cenario.08.1-adicao-de-produto.mp4)
+  [![Assistir Evidência do Cenário 02](https://img.shields.io/badge/▶_Assistir_Vídeo-YouTube-red)](https://youtu.be/KbfLOhZ2X2I)
 
 
 ### Cenário 10: Frete grátis avalia o subtotal antes do desconto (CA06, CA08)
@@ -198,7 +197,7 @@ Exemplos:
 
    **Resultado da Execução:** ✅ Passou
    **Evidência:**
-   ![teste calculo de valores  do carrinho com cupom](../evidencias/cenario.10-calculo-carrinho-com-cupom.mp4)
+    [![Assistir Evidência do Cenário 02](https://img.shields.io/badge/▶_Assistir_Vídeo-YouTube-red)](https://youtu.be/8hfBMTUMdRw)
 
    **Resultado da Execução:(02)** ❌ Falhou
    **Evidência e Detalhes:**
@@ -206,7 +205,7 @@ Exemplos:
 
    **Resultado da Execução:** ✅ Passou
    **Evidência:**
-   ![teste calculo de valores do carrinho com cupom e frete gratis ](../evidencias/cenario.10.1-calculo-carrinho-com-cupom-e-fretegratis.mp4)
+   [![Assistir Evidência do Cenário 02](https://img.shields.io/badge/▶_Assistir_Vídeo-YouTube-red)](https://youtu.be/7WGwSA3tzVA)
 
 
 ### Cenário 11: Remover o cupom não altera o frete grátis (CA05, CA08)
@@ -219,7 +218,7 @@ Exemplos:
 
    **Resultado da Execução:** ✅ Passou
    **Evidência:**
-   ![teste calculo adição de cupom](../evidencias/cenario.11-retira-cupom.mp4)
+   [![Assistir Evidência do Cenário 02](https://img.shields.io/badge/▶_Assistir_Vídeo-YouTube-red)](https://youtu.be/ZXvzqZfphmY)
 
 
 ### Cenário 12: Frete passa a ser grátis ao adicionar produto com cupom aplicado (CA06, CA08)
@@ -234,7 +233,7 @@ Exemplos:
 
    **Resultado da Execução:** ✅ Passou
    **Evidência:**
-   ![teste calculo adição de item com cupom aplicado](../evidencias/cenario.12-adiciona-produto-com-cupom-aplicado.mp4)
+    [![Assistir Evidência do Cenário 02](https://img.shields.io/badge/▶_Assistir_Vídeo-YouTube-red)](https://youtu.be/wYRrE_1EvDE)
 
 
 ## Cenário 13: Frete volta a ser cobrado ao cair abaixo de R$ 200,00 com cupom aplicado (CA06, CA08)
@@ -250,7 +249,7 @@ Exemplos:
 
    **Resultado da Execução:** ✅ Passou
    **Evidência:**
-   ![teste retira o item com o cupom aplicado](../evidencias/cenario.13-retira-item-com-cupom-aplicado.mp4)
+   [![Assistir Evidência do Cenário 02](https://img.shields.io/badge/▶_Assistir_Vídeo-YouTube-red)](https://youtu.be/qNA1Xh48NEQ)
 
 
 ### Cenário 14: Impedir mais de 5 unidades do mesmo produto na interface (CA10)
