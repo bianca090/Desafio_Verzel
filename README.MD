@@ -175,5 +175,5 @@ Gostaria de expressar minha profunda gratidão à equipe de recrutamento e aos a
 
 **Seu Nome**
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [seu-perfil](https://linkedin.com/in/seu-perfil)
+- GitHub: [@seu-usuario](https://github.com/bianca090)
+- LinkedIn: [seu-perfil](https://www.linkedin.com/in/bianca-g-lira/)
